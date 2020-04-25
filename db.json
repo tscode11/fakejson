@@ -5,5 +5,93 @@
 			"firstname": "Adam",
 			"lastname": "Petersson",
 			"email": "firstemail@mail.com"
-		}]
+		},
+		{
+			"id": 2,
+			"username": "secondusername",
+			"firstname": "Matilda",
+			"lastname": "Max",
+			"email": "email2@mail.com"
+		},
+		{
+			"id": 3,
+			"username": "3dusername",
+			"firstname": "Johan",
+			"lastname": "Persson",
+			"email": "email3@mail.com"
+		},
+		{
+			"id": 4,
+			"username": "4thusername",
+			"firstname": "Max",
+			"lastname": "Valjakkala",
+			"email": "email4@mail.com"
+		}
+	],
+	"companies": [{
+			"id": 1,
+			"userid": 1,
+			"company": "Adobe",
+			"description": "Adobe des..."
+		},
+		{
+			"id": 2,
+			"userid": 2,
+			"company": "Microsoft",
+			"description": "Microsoft's description..."
+		},
+		{
+			"id": 3,
+			"userid": 2,
+			"company": "Google",
+			"description": "Google's desc..."
+		},
+		{
+			"id": 3,
+			"userid": 3,
+			"company": "Google",
+			"description": "Google's desc..."
+		}
+	],
+	"addresses": [{
+			"id": 1,
+			"userid": 1,
+			"street": "Blackevagen 1",
+			"city": "Gothenburg",
+			"zipcode": "41716",
+			"country": "Sweden"
+		},
+		{
+			"id": 2,
+			"userid": 1,
+			"street": "Museokatu 23",
+			"city": "Stockholm",
+			"zipcode": "44512",
+			"country": "Sweden"
+		},
+		{
+			"id": 3,
+			"userid": 2,
+			"street": "713 N 16th St",
+			"city": "Phoenix",
+			"zipcode": "85006",
+			"country": "United States"
+		},
+		{
+			"id": 4,
+			"userid": 3,
+			"street": "Biscuit Factory, 100 Drummond Rd",
+			"city": "London",
+			"zipcode": "SE16 4DG",
+			"country": "United Kingdom"
+		},
+		{
+			"id": 5,
+			"userid": 4,
+			"street": "Museokatu 17",
+			"city": "Helsinki",
+			"zipcode": "00100",
+			"country": "Finland"
+		}
+	]
 }
