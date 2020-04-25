@@ -26,6 +26,13 @@
 			"firstname": "Max",
 			"lastname": "Valjakkala",
 			"email": "email4@mail.com"
+		},
+		{
+			"id": 5,
+			"username": "5thusername",
+			"firstname": "Johanna",
+			"lastname": "Tiid",
+			"email": "email5@mail.com"
 		}
 	],
 	"companies": [{
@@ -51,6 +58,12 @@
 			"userid": 3,
 			"company": "Google",
 			"description": "Google's desc..."
+		},
+		{
+			"id": 1,
+			"userid": 5,
+			"company": "Adobe",
+			"description": "Adobe des..."
 		}
 	],
 	"addresses": [{
@@ -91,6 +104,14 @@
 			"street": "Museokatu 17",
 			"city": "Helsinki",
 			"zipcode": "00100",
+			"country": "Finland"
+		},
+		{
+			"id": 6,
+			"userid": 5,
+			"street": "Helsinki st 52",
+			"city": "Helsinki",
+			"zipcode": "20100",
 			"country": "Finland"
 		}
 	]
