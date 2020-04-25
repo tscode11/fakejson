@@ -64,6 +64,12 @@
 			"userid": 5,
 			"company": "Adobe",
 			"description": "Adobe des..."
+		},
+		{
+			"id": 4,
+			"userid": 5,
+			"company": "Facebook",
+			"description": "Facebook des..."
 		}
 	],
 	"addresses": [{
@@ -113,6 +119,14 @@
 			"city": "Helsinki",
 			"zipcode": "20100",
 			"country": "Finland"
+		},
+		{
+			"id": 7,
+			"userid": 5,
+			"street": "High st 101",
+			"city": "Stockholm",
+			"zipcode": "32157",
+			"country": "Sweden"
 		}
 	]
 }
