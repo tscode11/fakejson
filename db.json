@@ -4,35 +4,35 @@
 			"username": "firstusername",
 			"firstname": "Adam",
 			"lastname": "Petersson",
-			"email": "firstemail@mail.com"
+			"email": "adam@mail.com"
 		},
 		{
 			"id": 2,
 			"username": "secondusername",
 			"firstname": "Matilda",
 			"lastname": "Max",
-			"email": "email2@mail.com"
+			"email": "matilda@mail.com"
 		},
 		{
 			"id": 3,
 			"username": "3dusername",
 			"firstname": "Johan",
 			"lastname": "Persson",
-			"email": "email3@mail.com"
+			"email": "johan@mail.com"
 		},
 		{
 			"id": 4,
 			"username": "4thusername",
 			"firstname": "Max",
 			"lastname": "Valjakkala",
-			"email": "email4@mail.com"
+			"email": "max99@mail.com"
 		},
 		{
 			"id": 5,
 			"username": "5thusername",
 			"firstname": "Johanna",
 			"lastname": "Tiid",
-			"email": "email5@mail.com"
+			"email": "johanna.tiid@mail.com"
 		}
 	],
 	"companies": [{
